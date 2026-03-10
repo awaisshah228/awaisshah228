@@ -126,8 +126,8 @@ Full-stack developer who ships fast.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=awaisshah228&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=awaisshah228&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=awaisshah228&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="165" />
+<img src="https://streak-stats.demolab.com/?user=awaisshah228&theme=tokyonight&hide_border=true" height="165" />
 
 **If you like what I build, drop a star or say hi!**
 
