@@ -26,18 +26,20 @@ Full-stack developer who ships fast.
 
 ## Featured: Cdoing Agent
 
-> Open-source, multi-provider AI coding assistant — CLI + VS Code Extension. Think Claude Code, but open source.
+> Open-source, multi-provider AI coding assistant — CLI + TUI + VS Code Extension. Think Claude Code, but open source.
 
-[![npm @cdoing/core](https://img.shields.io/npm/v/@cdoing/core?label=%40cdoing%2Fcore&style=flat-square)](https://www.npmjs.com/package/@cdoing/core)
+[![npm @cdoing/opentuicli](https://img.shields.io/npm/v/@cdoing/opentuicli?label=%40cdoing%2Ftui&style=flat-square)](https://www.npmjs.com/package/@cdoing/opentuicli)
 [![npm @cdoing/cli](https://img.shields.io/npm/v/@cdoing/cli?label=%40cdoing%2Fcli&style=flat-square)](https://www.npmjs.com/package/@cdoing/cli)
+[![npm @cdoing/core](https://img.shields.io/npm/v/@cdoing/core?label=%40cdoing%2Fcore&style=flat-square)](https://www.npmjs.com/package/@cdoing/core)
 [![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/awaisshah228.cdoing-vscode?label=VS%20Code&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=awaisshah228.cdoing-vscode)
 
 | | | |
 |---|---|---|
 | **20 built-in tools** | **10 context providers** | **5 permission modes** |
 | **Multi-provider** — Claude, GPT, Gemini, Ollama | **Inline edit** — Cmd+I in VS Code | **Codebase indexing** — SQLite FTS5 |
+| **TUI** — standalone binary, zero deps | **Remote agent** — headless runner | **MCP** — Model Context Protocol |
 
-[GitHub](https://github.com/awaisshah228/cdoing-agent) · [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=awaisshah228.cdoing-vscode) · [npm CLI](https://www.npmjs.com/package/@cdoing/cli) · [npm Core](https://www.npmjs.com/package/@cdoing/core)
+[GitHub](https://github.com/awaisshah228/cdoing-agent) · [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=awaisshah228.cdoing-vscode) · [TUI](https://www.npmjs.com/package/@cdoing/opentuicli) · [npm CLI](https://www.npmjs.com/package/@cdoing/cli) · [npm Core](https://www.npmjs.com/package/@cdoing/core)
 
 ---
 
@@ -58,7 +60,7 @@ Full-stack developer who ships fast.
 
 | | Project | Description | Link |
 |:-:|---------|-------------|:----:|
-| <img src="https://img.shields.io/badge/-OSS-blue?style=flat-square" /> | **Cdoing Agent** | Open-source AI coding assistant — CLI + VS Code, multi-provider | [GitHub](https://github.com/awaisshah228/cdoing-agent) · [Marketplace](https://marketplace.visualstudio.com/items?itemName=awaisshah228.cdoing-vscode) |
+| <img src="https://img.shields.io/badge/-OSS-blue?style=flat-square" /> | **Cdoing Agent** | Open-source AI coding assistant — CLI + TUI + VS Code, multi-provider | [GitHub](https://github.com/awaisshah228/cdoing-agent) · [Marketplace](https://marketplace.visualstudio.com/items?itemName=awaisshah228.cdoing-vscode) |
 | <img src="https://img.shields.io/badge/-Live-00C853?style=flat-square" /> | **CV Builder** | Craft ATS-optimized resumes with AI | [Open](https://calcstack.co/cv-editor) |
 | <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square" /> | **Fortune Files** | AI YouTube automation with coding | [Watch](https://www.youtube.com/@fortune_files228) |
 | <img src="https://img.shields.io/badge/-Live-00C853?style=flat-square" /> | **AI Course Generator** | AI-powered course builder with W3Schools-style layout & drag-and-drop editor | [Open](https://course.calcstack.co/) |
@@ -68,6 +70,7 @@ Full-stack developer who ships fast.
 
 | | Project | Description | Link |
 |:-:|---------|-------------|:----:|
+| <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square" /> | **@cdoing/opentuicli** | Standalone TUI binary — rich terminal UI, zero runtime deps | [npm](https://www.npmjs.com/package/@cdoing/opentuicli) · [GitHub](https://github.com/awaisshah228/cdoing-agent) |
 | <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square" /> | **@cdoing/cli** | AI coding assistant CLI — multi-provider, 20 tools, agentic loop | [npm](https://www.npmjs.com/package/@cdoing/cli) · [GitHub](https://github.com/awaisshah228/cdoing-agent) |
 | <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square" /> | **@cdoing/core** | Core library — tools, permissions, sandbox, hooks, indexing | [npm](https://www.npmjs.com/package/@cdoing/core) |
 | <img src="https://img.shields.io/badge/-Marketplace-007ACC?style=flat-square" /> | **Cdoing VS Code** | VS Code extension — chat, inline edit, autocomplete | [Install](https://marketplace.visualstudio.com/items?itemName=awaisshah228.cdoing-vscode) |
