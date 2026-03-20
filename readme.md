@@ -56,7 +56,7 @@ Full-stack developer who ships fast.
 | <img src="https://img.shields.io/badge/-Live-00C853?style=flat-square" /> | **Notemap** | AI-powered mind mapping & brainstorming | [Open](https://calcstack.co/notemap) |
 | <img src="https://img.shields.io/badge/-Live-00C853?style=flat-square" /> | **Image Pipeline (Web)** | GPU-accelerated image processing pipelines | [Open](https://calcstack.co/image-pipeline) |
 | <img src="https://img.shields.io/badge/-OSS-blue?style=flat-square" /> | **Image Pipeline (Desktop)** | Node-based image & video processing — 60+ nodes, YOLO, AI upscaling, background removal | [GitHub](https://github.com/awaisshah228/image-pipeline-electron) |
-| <img src="https://img.shields.io/badge/-Live-00C853?style=flat-square" /> | **BioCon — Bioprocess Workflow Editor** | Visual drag-and-drop editor for designing bioprocess pipelines — built with React Flow & Next.js | [Open](https://biocon-web-njwd.vercel.app/) |
+| <img src="https://img.shields.io/badge/-Live-00C853?style=flat-square" /> | **BioCon — Bioprocess Workflow Editor** | Visual drag-and-drop editor for designing bioprocess pipelines — built with React Flow & Next.js | [Open](https://bicon.calcstack.co/) |
 
 ### AI & Automation
 
