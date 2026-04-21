@@ -2,10 +2,11 @@
 
 # Hey, I'm Awais Shah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-**Senior Full-Stack Engineer | AI · Web3 · DevOps · Cloud-Native**
+**Senior Full-Stack Engineer · Founder @ [CalcStack](https://calcstack.co/) | AI · Web3 · DevOps · Cloud-Native**
 
-5+ years building production systems with MERN, Next.js, NestJS, and blockchain.
+5+ years building production systems with MERN, Next.js, NestJS, and blockchain. Founder of [**calcstack.co**](https://calcstack.co/) — a suite of visual tools, AI editors, and developer products.
 
+[![CalcStack](https://img.shields.io/badge/CalcStack-Founder-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](https://calcstack.co/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-awais.calcstack.co-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://awais.calcstack.co/)
 [![YouTube](https://img.shields.io/badge/YouTube-Fortune%20Files-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fortune_files228)
 [![npm](https://img.shields.io/badge/npm-avoid--nodes--edge-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/avoid-nodes-edge)
