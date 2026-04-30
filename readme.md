@@ -67,6 +67,7 @@ Full-stack developer who ships fast.
 | <img src="https://img.shields.io/badge/-Live-00C853?style=flat-square" /> | **CV Builder** | Craft ATS-optimized resumes with AI | [Open](https://calcstack.co/cv-editor) |
 | <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square" /> | **Fortune Files** | AI YouTube automation with coding | [Watch](https://www.youtube.com/@fortune_files228) |
 | <img src="https://img.shields.io/badge/-Live-00C853?style=flat-square" /> | **AI Course Generator** | AI-powered course builder with W3Schools-style layout & drag-and-drop editor | [Open](https://course.calcstack.co/) |
+| <img src="https://img.shields.io/badge/-Live-00C853?style=flat-square" /> | **Math Hub** | Interactive math learning — concepts, formulas & problem-solving. A modern take on Math Is Fun | [Open](https://math.calcstack.co/) |
 | <img src="https://img.shields.io/badge/-Live-00C853?style=flat-square" /> | **CodeTutorials** | Interactive coding platform with built-in editor — JS (127 chapters) & AI automation (14 chapters) | [Open](https://interview-practical.vercel.app/) · [GitHub](https://github.com/awaisshah228/interview-practical) |
 
 ### Open Source
