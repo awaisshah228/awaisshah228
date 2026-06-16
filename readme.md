@@ -11,7 +11,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-Fortune%20Files-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fortune_files228)
 [![npm](https://img.shields.io/badge/npm-avoid--nodes--edge-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/avoid-nodes-edge)
 [![GitHub](https://img.shields.io/badge/GitHub-awaisshah228-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/awaisshah228)
-
+[![Instagram](https://img.shields.io/badge/Instagram-awaisshah228-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/awaisshah228)
 
 </div>
 
