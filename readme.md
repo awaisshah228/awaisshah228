@@ -70,6 +70,12 @@ Full-stack developer who ships fast.
 | <img src="https://img.shields.io/badge/-Live-00C853?style=flat-square" /> | **Math Hub** | Interactive math learning — concepts, formulas & problem-solving. A modern take on Math Is Fun | [Open](https://math.calcstack.co/) |
 | <img src="https://img.shields.io/badge/-Live-00C853?style=flat-square" /> | **CodeTutorials** | Interactive coding platform with built-in editor — JS (127 chapters) & AI automation (14 chapters) | [Open](https://interview-practical.vercel.app/) · [GitHub](https://github.com/awaisshah228/interview-practical) |
 
+### Education & Exam Preparation
+
+| | Project | Description | Link |
+|:-:|---------|-------------|:----:|
+| <img src="https://img.shields.io/badge/-Live-00C853?style=flat-square" /> | **CalcStack CSS — Pakistan CSS Exam Prep** | Study materials & guidance for Pakistan's Central Superior Services (CSS) exam, helping aspirants prepare for government service careers | [Open](https://css.calcstack.co/) |
+
 ### Open Source
 
 | | Project | Description | Link |
