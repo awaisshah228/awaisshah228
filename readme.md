@@ -168,3 +168,52 @@ Full-stack developer who ships fast.
 **If you like what I build, drop a star or say hi!**
 
 </div>
+
+---
+
+## All Project & Profile Links
+
+### Websites & Profiles
+
+- [CalcStack — Visual Tools, AI Editors, and Developer Products](https://calcstack.co/)
+- [Awais Shah — Full-Stack Engineer Portfolio](https://awais.calcstack.co/)
+- [Awais Shah — GitHub Profile](https://github.com/awaisshah228)
+- [Awais Shah — Instagram Profile](https://www.instagram.com/awaisshah228)
+- [Fortune Files — YouTube Channel](https://www.youtube.com/@fortune_files228)
+
+### Visual Tools & AI Editors
+
+- [CalcStack Diagram Editor — Flowcharts and Architecture Diagrams](https://calcstack.co/editor)
+- [CalcStack Circuit Simulator — Digital Logic Circuit Editor](https://calcstack.co/circuit-editor)
+- [CalcStack AI Agent Editor — Visual AI Workflow Builder](https://calcstack.co/ai-agent-editor)
+- [CalcStack Notemap — AI Mind Mapping and Brainstorming](https://calcstack.co/notemap)
+- [CalcStack Image Pipeline — Web Image Processing Editor](https://calcstack.co/image-pipeline)
+- [Image Pipeline Desktop — Image and Video Processing GitHub Repository](https://github.com/awaisshah228/image-pipeline-electron)
+- [BioCon — Bioprocess Workflow Editor](https://bicon.calcstack.co/)
+- [CalcStack CV Builder — AI Resume Editor](https://calcstack.co/cv-editor)
+
+### Education & Learning
+
+- [CalcStack AI Course Generator — AI Course Builder](https://course.calcstack.co/)
+- [CalcStack Math Hub — Interactive Math Learning](https://math.calcstack.co/)
+- [CodeTutorials — Interactive JavaScript and AI Automation Tutorials](https://interview-practical.vercel.app/)
+- [CodeTutorials — GitHub Repository](https://github.com/awaisshah228/interview-practical)
+- [CalcStack CSS — Pakistan Central Superior Services Exam Preparation](https://css.calcstack.co/)
+
+### Open-Source Projects & Packages
+
+- [Cdoing Agent — Open-Source AI Coding Assistant GitHub Repository](https://github.com/awaisshah228/cdoing-agent)
+- [Cdoing Agent — Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=awaisshah228.cdoing-vscode)
+- [Cdoing Terminal User Interface — @cdoing/opentuicli npm Package](https://www.npmjs.com/package/@cdoing/opentuicli)
+- [Cdoing Command-Line Interface — @cdoing/cli npm Package](https://www.npmjs.com/package/@cdoing/cli)
+- [Cdoing Core Library — @cdoing/core npm Package](https://www.npmjs.com/package/@cdoing/core)
+- [Infinite Canvas for React — @infinit-canvas/react npm Package](https://www.npmjs.com/package/@infinit-canvas/react)
+- [Infinite Canvas — GitHub Repository](https://github.com/awaisshah228/infinit-canvas)
+- [avoid-nodes-edge — Orthogonal Edge Routing and Auto Layout npm Package](https://www.npmjs.com/package/avoid-nodes-edge)
+- [avoid-nodes-edge — Interactive Edge Routing Demo](https://avoid-nodes-pro-example.vercel.app/)
+- [Jitsi Meet — Alfaz Studio Video Conferencing GitHub Repository](https://github.com/alfaz-studio/jitsi-meet/tree/main)
+
+### Trading & News
+
+- [Flash Trade — Trading Platform](https://www.flash.trade/)
+- [The Daily Digest — Technology, Design, and Development News](https://blog-latest-eight.vercel.app/)
