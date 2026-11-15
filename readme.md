@@ -99,7 +99,7 @@ Full-stack developer who ships fast.
 
 | | Project | Description | Link |
 |:-:|---------|-------------|:----:|
-| <img src="https://img.shields.io/badge/-Live-00C853?style=flat-square" /> | **The Daily Digest** | Tech, design & dev news | [Visit](https://blog-latest-eight.vercel.app/) |
+| <img src="https://img.shields.io/badge/-Live-00C853?style=flat-square" /> | **The Daily Digest** | Tech, design & dev news | [Visit](https://blog.calcstack.co/) |
 
 ---
 
@@ -216,4 +216,4 @@ Full-stack developer who ships fast.
 ### Trading & News
 
 - [Flash Trade — Trading Platform](https://www.flash.trade/)
-- [The Daily Digest — Technology, Design, and Development News](https://blog-latest-eight.vercel.app/)
+- [The Daily Digest — Technology, Design, and Development News](https://blog.calcstack.co/)
